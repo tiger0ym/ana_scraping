@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Playwright
+playwright/.cache/
+
+# 編集メモ
+*.log
+
+# あなたの運用で生成する保存物
+storage_state.json
+state.json
+
+# OS / Editor
+.DS_Store
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
